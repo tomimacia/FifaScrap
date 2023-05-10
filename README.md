@@ -1,0 +1,1 @@
+FIFA scraping script for FIFA world cup tickets availability, now that the competition has ended is currently deprecated. Ran on replit, and had incorporated twilio to notificate in case of availability.
